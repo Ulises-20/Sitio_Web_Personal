@@ -1,0 +1,116 @@
+/* 
+    Created on : 17 jun. 2023, 11:36:01
+    Author     : Pc
+*/
+body
+{
+    width: 900px;
+    margin: auto;
+}
+
+div{
+    width: auto;
+}
+
+h2
+{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#sombraDiv {
+  border: 5px;
+  border-color: blue;
+  background-color: white;    
+  text-align: left;
+}
+
+#sombraDiv2 {
+  border: 5px;
+  border-color: red;
+  background-color: white;    
+  text-align: left;
+}
+
+#sombraDiv3 {
+  border: 5px;
+  border-color: yellow;
+  background-color: white;    
+  text-align: left;
+}
+
+#sombraDiv4 {
+  border: 5px;
+  border-color: darkgoldenrod;
+  background-color: white;    
+  text-align: left;
+}
+
+#imgAjustada {
+  border: 2px solid black;
+  padding: 50px;
+  background: url(../media/img/fondo.jpeg);
+  background-repeat: no-repeat;
+  background-size: 900px 200px;
+}
+
+#divStilos
+{
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 15px;
+    height: 400px;
+    background: linear-gradient(to bottom, #ff0000 0%, #000000 90%);
+    color: white;
+}
+
+#borderimg
+{
+    margin: 8px;
+    border: 15px solid;
+    padding: 15px;
+    border-image-source: url(../media/img/border.png);
+    border-image-slice: 30;
+}
+
+#imgPasatiempos
+{
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+#imgPasatiempos1
+{
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+#imgPasatiempos2
+{
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+#imgPasatiempos3
+{
+  border-radius: 10px;
+  opacity: 0.5;
+}
+
+#textStyle
+{
+    font-style: normal;
+}
+
+#textStyle2
+{
+    font-style: oblique;
+}
+
+#textStyle4
+{
+    font-family: "Times New Roman", Times, serif;
+}

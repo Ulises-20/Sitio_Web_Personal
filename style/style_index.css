@@ -1,0 +1,74 @@
+/* 
+    Created on : 8 jun. 2023, 09:39:13
+    Author     : CC_Laboratorio
+*/
+body
+{
+    width: 900px;
+    margin: auto;
+}
+
+h1{
+    color: white;
+    background-color: maroon;
+    margin-bottom: 0px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 4px;
+    padding: 24px;
+    text-align: center;
+    font-style: italic;
+    border-radius: 8px;
+}
+
+h2
+{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#divEnlaces
+{
+    margin: 8px;
+    padding:4px;
+    border-color: #660066;
+    border-width: 4px;
+    border-style: solid;
+    border-top-right-radius: 8px;
+}
+
+#imgBiografia {
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-left: 50px;
+}
+
+#imgIndex {
+  border-radius: 50%;
+  text-align: center;
+  margin: 5px;
+}
+
+#imgIndex2 {
+  border-radius: 50%;
+  text-align: center;
+  margin: 5px;
+}
+
+#textStyle3
+{
+    font-variant: normal;
+}
+
+#textStyle5
+{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+div {
+    width: auto;
+}
